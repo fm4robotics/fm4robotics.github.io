@@ -22,7 +22,7 @@ title: FM4R Workshop
 email:
 description: >- # this means to ignore newlines until "baseurl:"
 #   Learn-to-Race Challenges in Autononous Driving
-baseurl: "/fm4robotics_src" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "fm4robotics.github.io" # l2r-workshop-website" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username: fm4robotics
