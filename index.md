@@ -361,6 +361,212 @@ Friday, 6 November 2023. All times are in Eastern Daylight Time (EDT). Current t
 
 </div>
 
+<!--Poster Presentation Gathertown link: https://app.gather.town/app/wLuHBtWDuNBoHgun/SL4AD%2022  -->
+
+## Speakers
+
+<div style="display:block; padding:10px 0 0 0; width:900px;">
+
+<a href="https://www.ias.informatik.tu-darmstadt.de/Team/GeorgiaChalvatzaki" target="_blank" class="speaker_profile">
+<div style="display:inline-block; width:270px; margin:20px 0 0 0;">
+<div style="display:inline-block; width:101px;">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/speakers/Georgia_Chalvatzaki.jpeg" alt="Georgia Chalvatzaki">
+</div>
+<div style="display:inline-block; width:150px; line-height:1.4;">
+<p style="margin:0 0 0 10px;">Georgia Chalvatzaki</p>
+<p style="margin:0 0 0 10px; font-size:10px;">Full Professor<br>TU Darmstadt</p>
+</div>
+</div>
+</a>
+
+<a href="https://yonatanbisk.com/" target="_blank" class="speaker_profile">
+<div style="display:inline-block; width:270px; margin:20px 0 0 0;">
+<div style="display:inline-block; width:101px;">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/speakers/Yonatan_Bisk.jpeg" alt="Yonatan Bisk">
+</div>
+<div style="display:inline-block; width:150px; line-height:1.4;">
+<p style="margin:0 0 0 10px;">Yonatan Bisk</p>
+<p style="margin:0 0 0 10px; font-size:10px;">Assistant Professor<br>Carnegie Mellon University</p>
+</div>
+</div>
+</a>
+
+<a href="https://dorsa.fyi" target="_blank" class="speaker_profile">
+<div style="display:inline-block; width:270px; margin:20px 0 0 0;">
+<div style="display:inline-block; width:101px;">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/speakers/dorsa_sadigh.jpeg" alt="Dorsa Sadigh">
+</div>
+<div style="display:inline-block; width:150px; line-height:1.4;">
+<p style="margin:0 0 0 10px;">Dorsa Sadigh</p>
+<p style="margin:0 0 0 10px; font-size:10px;">Assistant Professor<br>Stanford University</p>
+</div>
+</div>
+</a>
+
+<a href="https://jimfan.me/" target="_blank" class="speaker_profile">
+<div style="display:inline-block; width:270px; margin:20px 0 0 0;">
+<div style="display:inline-block; width:101px;">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/speakers/Jim_Fan.jpeg" alt="Linxi 'Jim' Fan">
+</div>
+<div style="display:inline-block; width:150px; line-height:1.4;">
+<p style="margin:0 0 0 10px;">Linxi "Jim" Fan</p>
+<p style="margin:0 0 0 10px; font-size:10px;">Research Scientist<br>NVIDIA AI</p>
+</div>
+</div>
+</a>
+
+</div>
+
+## Organizers
+
+<div style="display:block; padding:10px 0 0 0; width:900px;">
+
+<a href="https://scholar.google.com/citations?user=6tiiQtgAAAAJ" target="_blank" class="organiser_profile">
+<div style="display:inline-block; width:270px; margin:20px 0 0 0;">
+<div style="display:inline-block; width:101px;">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/andrew_melnik.jpeg" alt="Andrew Melnik">
+</div>
+<div style="display:inline-block; width:150px; line-height:1.4;">
+<p style="margin:0 0 0 10px;">Andrew Melnik</p>
+<p style="margin:0 0 0 10px; font-size:10px;">Postdoc<br>Bielefeld University</p>
+</div>
+</div>
+</a>
+
+<a href="https://krishanrana.github.io/" target="_blank" class="organiser_profile">
+<div style="display:inline-block; width:270px; margin:20px 0 0 0;">
+<div style="display:inline-block; width:101px;">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/krishan_rana.jpeg" alt="Krishan Rana">
+</div>
+<div style="display:inline-block; width:150px; line-height:1.4;">
+<p style="margin:0 0 0 10px;">Krishan Rana</p>
+<p style="margin:0 0 0 10px; font-size:10px;">Postdoc<br>QUT</p>
+</div>
+</div>
+</a>
+
+<a href="https://www.linkedin.com/in/jonmfrancis/" target="_blank" class="organiser_profile">
+<div style="display:inline-block; width:270px; margin:20px 0 0 0;">
+<div style="display:inline-block; width:101px;">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/jonathan_francis.jpeg" alt="Jonathan Francis">
+</div>
+<div style="display:inline-block; width:150px; line-height:1.4;">
+<p style="margin:0 0 0 10px;">Jonathan Francis</p>
+<p style="margin:0 0 0 10px; font-size:10px;">Senior Research Scientist<br>Bosch Research</p>
+</div>
+</div>
+</a>
+
+<a href="https://ishikasingh.github.io/" target="_blank" class="organiser_profile">
+<div style="display:inline-block; width:270px; margin:20px 0 0 0;">
+<div style="display:inline-block; width:101px;">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/ishika_singh.jpeg" alt="Ishika Singh">
+</div>
+<div style="display:inline-block; width:150px; line-height:1.4;">
+<p style="margin:0 0 0 10px;">Ishika Singh</p>
+<p style="margin:0 0 0 10px; font-size:10px;">PhD Student<br>USC</p>
+</div>
+</div>
+</a>
+
+<a href="https://guanzhi.me/" target="_blank" class="organiser_profile">
+<div style="display:inline-block; width:270px; margin:20px 0 0 0;">
+<div style="display:inline-block; width:101px;">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/guanzhi_wang.jpeg" alt="Guanzhi Wang">
+</div>
+<div style="display:inline-block; width:150px; line-height:1.4;">
+<p style="margin:0 0 0 10px;">Guanzhi Wang</p>
+<p style="margin:0 0 0 10px; font-size:10px;">PhD Student<br>Caltech</p>
+</div>
+</div>
+</a>
+
+<a href="https://www.linkedin.com/in/norman-di-palo/?originalSubdomain=uk" target="_blank" class="organiser_profile">
+<div style="display:inline-block; width:270px; margin:20px 0 0 0;">
+<div style="display:inline-block; width:101px;">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/norman_di_palo.jpeg" alt="Norman Di Palo">
+</div>
+<div style="display:inline-block; width:150px; line-height:1.4;">
+<p style="margin:0 0 0 10px;">Norman Di Palo</p>
+<p style="margin:0 0 0 10px; font-size:10px;">PhD Student<br>Imperial College London</p>
+</div>
+</div>
+</a>
+
+<a href="https://vidhijain.github.io/" target="_blank" class="organiser_profile">
+<div style="display:inline-block; width:270px; margin:20px 0 0 0;">
+<div style="display:inline-block; width:101px;">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/vidhi_jain.jpeg" alt="Vidhi Jain">
+</div>
+<div style="display:inline-block; width:150px; line-height:1.4;">
+<p style="margin:0 0 0 10px;">Vidhi Jain</p>
+<p style="margin:0 0 0 10px; font-size:10px;">PhD Student<br>CMU</p>
+</div>
+</div>
+</a>
+
+<a href="https://www.linkedin.com/in/quanting-xie-4197a814a/" target="_blank" class="organiser_profile">
+<div style="display:inline-block; width:270px; margin:20px 0 0 0;">
+<div style="display:inline-block; width:101px;">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/quanting_xie.jpeg" alt="Quanting Xie">
+</div>
+<div style="display:inline-block; width:150px; line-height:1.4;">
+<p style="margin:0 0 0 10px;">Quanting "Daniel" Xie</p>
+<p style="margin:0 0 0 10px; font-size:10px;">MS Student<br>CMU</p>
+</div>
+</div>
+</a>
+
+<a href="https://yaqi-xie.me/" target="_blank" class="organiser_profile">
+<div style="display:inline-block; width:270px; margin:20px 0 0 0;">
+<div style="display:inline-block; width:101px;">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/yaqi_xie.png" alt="Yaqi Xie">
+</div>
+<div style="display:inline-block; width:150px; line-height:1.4;">
+<p style="margin:0 0 0 10px;">Yaqi Xie</p>
+<p style="margin:0 0 0 10px; font-size:10px;">Postdoc<br>CMU</p>
+</div>
+</div>
+</a>
+
+<a href="https://jeffreyyh.github.io/" target="_blank" class="organiser_profile">
+<div style="display:inline-block; width:270px; margin:20px 0 0 0;">
+<div style="display:inline-block; width:101px;">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/yafei_hu.png" alt="Yafei Hu">
+</div>
+<div style="display:inline-block; width:150px; line-height:1.4;">
+<p style="margin:0 0 0 10px;">Yafei "Jeffrey" Hu</p>
+<p style="margin:0 0 0 10px; font-size:10px;">PhD Student<br>CMU</p>
+</div>
+</div>
+</a>
+
+<a href="https://nikosuenderhauf.github.io/" target="_blank" class="organiser_profile">
+<div style="display:inline-block; width:270px; margin:20px 0 0 0;">
+<div style="display:inline-block; width:101px;">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/niko_sünderhauf.png" alt="Niko Sünderhauf">
+</div>
+<div style="display:inline-block; width:150px; line-height:1.4;">
+<p style="margin:0 0 0 10px;">Niko Sünderhauf</p>
+<p style="margin:0 0 0 10px; font-size:10px;">Professor<br>QUT</p>
+</div>
+</div>
+</a>
+
+<a href="https://nikosuenderhauf.github.io/" target="_blank" class="organiser_profile">
+<div style="display:inline-block; width:270px; margin:20px 0 0 0;">
+<div style="display:inline-block; width:101px;">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/danica_kragic.png" alt="Danica Kragic">
+</div>
+<div style="display:inline-block; width:150px; line-height:1.4;">
+<p style="margin:0 0 0 10px;">Danica Kragic</p>
+<p style="margin:0 0 0 10px; font-size:10px;">Professor<br>KTH</p>
+</div>
+</div>
+</a>
+
+</div>
+
 
 <!-- ## Program Committee -->
 
