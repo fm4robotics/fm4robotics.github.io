@@ -452,7 +452,7 @@ Friday, 6 November 2023. All times are in Eastern Daylight Time (EDT). Current t
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Jonathan Francis</p>
-<p style="margin:0 0 0 10px; font-size:10px;">Senior Research Scientist<br>Bosch Research</p>
+<p style="margin:0 0 0 10px; font-size:10px;">Senior Research Scientist<br>Bosch Center for AI</p>
 </div>
 </div>
 </a>
