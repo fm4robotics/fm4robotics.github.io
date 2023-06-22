@@ -599,7 +599,7 @@ Friday, 6 November 2023. All times are in Eastern Daylight Time (EDT). Current t
 
 ## Organizers
 
-<div style="display:inline; width:900px; vertical-align: top;">
+<div style="display:block; padding:10px 0 0 0; width:900px;">
 
 <a href="https://scholar.google.com/citations?user=6tiiQtgAAAAJ" target="_blank" class="organiser_profile">
 <div style="display:inline-block; width:270px;">
@@ -608,7 +608,7 @@ Friday, 6 November 2023. All times are in Eastern Daylight Time (EDT). Current t
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Andrew Melnik</p>
-<p style="margin:0 0 0 10px; font-size:10px;">Postdoc at Bielefeld University</p>
+<p style="margin:0 0 0 10px; font-size:10px;">Postdoc<br>Bielefeld University</p>
 </div>
 </div>
 </a>
@@ -620,7 +620,7 @@ Friday, 6 November 2023. All times are in Eastern Daylight Time (EDT). Current t
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Krishan Rana</p>
-<p style="margin:0 0 0 10px; font-size:10px;">Postdoc at QUT</p>
+<p style="margin:0 0 0 10px; font-size:10px;">Postdoc<br>QUT</p>
 </div>
 </div>
 </a>
@@ -628,11 +628,11 @@ Friday, 6 November 2023. All times are in Eastern Daylight Time (EDT). Current t
 <a href="https://www.linkedin.com/in/jonmfrancis/" target="_blank" class="organiser_profile">
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/jonathan_francis.png" alt="Jonathan Francis">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/jonathan_francis.jpeg" alt="Jonathan Francis">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Jonathan Francis</p>
-<p style="margin:0 0 0 10px; font-size:10px;">Research Scientist at Bosch Research</p>
+<p style="margin:0 0 0 10px; font-size:10px;">Senior Research Scientist<br>Bosch Research</p>
 </div>
 </div>
 </a>
@@ -644,7 +644,7 @@ Friday, 6 November 2023. All times are in Eastern Daylight Time (EDT). Current t
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Ishika Singh</p>
-<p style="margin:0 0 0 10px; font-size:10px;">PhD Student at USC</p>
+<p style="margin:0 0 0 10px; font-size:10px;">PhD Student<br>USC</p>
 </div>
 </div>
 </a>
@@ -652,12 +652,11 @@ Friday, 6 November 2023. All times are in Eastern Daylight Time (EDT). Current t
 <a href="https://guanzhi.me/" target="_blank" class="organiser_profile">
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/guanzhi_wang.png" alt="Guanzhi Wang">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/guanzhi_wang.jpeg" alt="Guanzhi Wang">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Guanzhi Wang
-</p>
-<p style="margin:0 0 0 10px; font-size:10px;">PhD Student at Caltech</p>
+<p style="margin:0 0 0 10px;">Guanzhi Wang</p>
+<p style="margin:0 0 0 10px; font-size:10px;">PhD Student<br>Caltech</p>
 </div>
 </div>
 </a>
@@ -669,7 +668,7 @@ Friday, 6 November 2023. All times are in Eastern Daylight Time (EDT). Current t
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Norman Di Palo</p>
-<p style="margin:0 0 0 10px; font-size:10px;">PhD Student at Imperial College London</p>
+<p style="margin:0 0 0 10px; font-size:10px;">PhD Student<br>Imperial College London</p>
 </div>
 </div>
 </a>
@@ -677,11 +676,11 @@ Friday, 6 November 2023. All times are in Eastern Daylight Time (EDT). Current t
 <a href="https://vidhijain.github.io/" target="_blank" class="organiser_profile">
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/vidhi_jain.png" alt="Vidhi Jain">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/vidhi_jain.jpeg" alt="Vidhi Jain">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Vidhi Jain</p>
-<p style="margin:0 0 0 10px; font-size:10px;">PhD Student at CMU</p>
+<p style="margin:0 0 0 10px; font-size:10px;">PhD Student<br>CMU</p>
 </div>
 </div>
 </a>
@@ -693,7 +692,7 @@ Friday, 6 November 2023. All times are in Eastern Daylight Time (EDT). Current t
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Quanting "Daniel" Xie</p>
-<p style="margin:0 0 0 10px; font-size:10px;">MS Student at CMU</p>
+<p style="margin:0 0 0 10px; font-size:10px;">MS Student<br>CMU</p>
 </div>
 </div>
 </a>
@@ -705,7 +704,7 @@ Friday, 6 November 2023. All times are in Eastern Daylight Time (EDT). Current t
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Yaqi Xie</p>
-<p style="margin:0 0 0 10px; font-size:10px;">Postdoc at CMU</p>
+<p style="margin:0 0 0 10px; font-size:10px;">Postdoc<br>CMU</p>
 </div>
 </div>
 </a>
@@ -717,7 +716,7 @@ Friday, 6 November 2023. All times are in Eastern Daylight Time (EDT). Current t
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Yafei "Jeffrey" Hu</p>
-<p style="margin:0 0 0 10px; font-size:10px;">PhD Student at CMU</p>
+<p style="margin:0 0 0 10px; font-size:10px;">PhD Student<br>CMU</p>
 </div>
 </div>
 </a>
@@ -729,7 +728,7 @@ Friday, 6 November 2023. All times are in Eastern Daylight Time (EDT). Current t
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Niko Sünderhauf</p>
-<p style="margin:0 0 0 10px; font-size:10px;">Professor at QUT</p>
+<p style="margin:0 0 0 10px; font-size:10px;">Professor<br>QUT</p>
 </div>
 </div>
 </a>
@@ -741,7 +740,7 @@ Friday, 6 November 2023. All times are in Eastern Daylight Time (EDT). Current t
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Danica Kragic</p>
-<p style="margin:0 0 0 10px; font-size:10px;">Professor at KTH</p>
+<p style="margin:0 0 0 10px; font-size:10px;">Professor<br>KTH</p>
 </div>
 </div>
 </a>
