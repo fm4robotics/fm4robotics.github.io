@@ -281,469 +281,83 @@ Friday, 6 November 2023. All times are in Eastern Daylight Time (EDT). Current t
 <div class="schedule-table-contentcol">Opening Remarks</div>
 </div>
 
-<div class="schedule-table-row-odd">
-<div class="schedule-table-timecol" style="vertical-align: 10px;">09:00</div>
-<div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
-<div style="display:inline-block; width:60px;">
-<img style="width:50px; height:50px; position: relative; bottom: 10px;" src="{{ site.baseurl }}/assets/images/speakers/david_held.png" alt="David Held">
-</div>
-<div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">David Held</p>
-<p style="margin:0 0 0 10px; font-size:10px;">CMU</p>
-</div>
-</div>
-</div>
-<div class="schedule-table-contentcol"><a target="_blank" href="https://slideslive.com/38987747/selfsupervised-3d-perception-for-autonomous-driving?ref=folder-105306" target="_blank"><i>Self-supervised learning for autonomous driving</i></a></div>
+<div class="schedule-table-odd-even">
+<div class="schedule-table-timecol">09:00</div>
+<div class="schedule-table-eventcol">Invited Talk #1</div>
+<div class="schedule-table-contentcol">TBD</div>
 </div>
 
 <div class="schedule-table-row-even">
-<div class="schedule-table-timecol" style="vertical-align: 10px;">09:30</div>
-<div class="schedule-table-eventcol">
-<div style="display:inline-block; width:270px; margin:20px 0 0 0;">
-<div style="display:inline-block; width:60px;">
-<img style="width:50px; height:50px; position: relative; bottom: 10px;" src="{{ site.baseurl }}/assets/images/speakers/melanie_zeilinger.png" alt="Melanie Zeilinger">
-</div>
-<div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Melanie Zeilinger</p>
-<p style="margin:0 0 0 10px; font-size:10px;">ETH Zürich</p>
-</div>
-</div>
-</div>
-<div class="schedule-table-contentcol"><a target="_blank" href="https://slideslive.com/38987741/learning-for-high-performance-yet-safe-control?ref=folder-105306"><i>Learning for High Performance yet Safe Control</i></a></div>
+<div class="schedule-table-timecol">09:30</div>
+<div class="schedule-table-eventcol">Invited Talk #2</div>
+<div class="schedule-table-contentcol">TBD</div>
 </div>
 
-<div class="schedule-table-row-odd">
+<div class="schedule-table-odd-even">
 <div class="schedule-table-timecol">10:00</div>
-<div class="schedule-table-eventcol">Social + Poster Session</div>
-<!--div class="schedule-table-contentcol">Paper IDs: 1, 2, 3, 4, 5, 6, 9, 10, 13, 17, 18, 21, 22</div-->
-<div class="schedule-table-contentcol"><b>Gathertown</b> and in-person displays</div>
+<div class="schedule-table-eventcol">Lightning Talks</div>
+<div class="schedule-table-contentcol">TBD</div>
 </div>
 
 <div class="schedule-table-row-even">
 <div class="schedule-table-timecol">11:00</div>
-<div class="schedule-table-eventcol">Spotlight Talks</div>
-<!--div class="schedule-table-contentcol">Content</div-->
+<div class="schedule-table-eventcol">Poster Session / Coffee Break</div>
+<div class="schedule-table-contentcol"></div>
 </div>
 
-<div class="schedule-table-row-even">
-<div class="schedule-table-timecol" style="vertical-align: 10px;">&nbsp;</div>
-<div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
-<div style="display:inline-block; width:60px;">
-&nbsp;
-</div>
-<div style="display:inline-block; width:150px; line-height:1.4; margin:0 0 0 40px">
-<p style="margin:0 0 0 10px;">Zijian Guo</p>
-<p style="margin:0 0 0 10px; font-size:10px;">CMU</p>
-</div>
-</div>
-</div>
-<div class="schedule-table-contentcol" style="margin:0 0 0 35px;"><a target="_blank" href="https://slideslive.com/38987752/constrained-modelbased-reinforcement-learning-via-robust-planning?ref=folder-105306"><i>#16: Constrained Model-based Reinforcement Learning via Robust Planning</i></a></div>
-</div>
-
-<div class="schedule-table-row-even">
-<div class="schedule-table-timecol" style="vertical-align: 10px;">&nbsp;</div>
-<div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
-<div style="display:inline-block; width:60px;">
-&nbsp;
-</div>
-<div style="display:inline-block; width:150px; line-height:1.4; margin:0 0 0 40px">
-<p style="margin:0 0 0 10px;">Linrui Zhang</p>
-<p style="margin:0 0 0 10px; font-size:10px;">Tsinghua University</p>
-</div>
-</div>
-</div>
-<div class="schedule-table-contentcol" style="margin:0 0 0 35px;"><a target="_blank" href="https://slideslive.com/38987764/saferlkit-evaluating-efficient-reinforcement-learning-methods-for-safe-autonomous-driving?ref=folder-105306"><i>#12: SafeRL-Kit: Evaluating Efficient Reinforcement Learning Methods for Safe Autonomous Driving</i></a></div>
-</div>
-
-<div class="schedule-table-row-odd">
-<div class="schedule-table-timecol" style="vertical-align: 10px;">11:30</div>
-<div class="schedule-table-eventcol">Autonomous Racing Virtual Challenge: Contributed Talks</div>
-<!--div class="schedule-table-contentcol">Content</div-->
-</div>
-
-<div class="schedule-table-row-odd">
-<div class="schedule-table-timecol" style="vertical-align: 10px;">&nbsp;</div>
-<div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
-<div style="display:inline-block; width:60px;">
-&nbsp;
-</div>
-<div style="display:inline-block; width:150px; line-height:1.4; margin:0 0 0 40px">
-<p style="margin:0 0 0 10px;">Shivansh Beohar</p>
-<p style="margin:0 0 0 10px; font-size:10px;">IIIT Allahabad</p>
-</div>
-</div>
-</div>
-<div class="schedule-table-contentcol" style="margin:0 0 0 35px;"><a target="_blank" href="https://slideslive.com/38987763/solving-learntorace-autonomous-racing-challenge-by-planning-in-latent-space?ref=folder-105306"><i>#11: Solving Learn-to-Race Autonomous Racing Challenge by Planning in Latent Space</i></a></div>
-</div>
-
-<div class="schedule-table-row-odd">
-<div class="schedule-table-timecol" style="vertical-align: 10px;">&nbsp;</div>
-<div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
-<div style="display:inline-block; width:60px;">
-&nbsp;
-</div>
-<div style="display:inline-block; width:150px; line-height:1.4; margin:0 0 0 40px">
-<p style="margin:0 0 0 10px;">James Bockman</p>
-<p style="margin:0 0 0 10px; font-size:10px;">U Adelaide</p>
-</div>
-</div>
-</div>
-<div class="schedule-table-contentcol" style="margin:0 0 0 35px;"><a target="_blank" href="https://slideslive.com/38987768/the-edge-of-disaster-a-battle-between-autonomous-racing-and-safety?ref=folder-105306"><i>#14: The Edge of Disaster: A Battle Between Autonomous Racing and Safety</i></a></div>
-</div>
-
-<div class="schedule-table-row-even">
+<div class="schedule-table-odd-even">
 <div class="schedule-table-timecol">12:00</div>
-<div class="schedule-table-eventcol">Lunch Break</div>
-<!--div class="schedule-table-contentcol">Content</div-->
+<div class="schedule-table-eventcol">Invited Talk #3</div>
+<div class="schedule-table-contentcol">TBD</div>
 </div>
 
-<div class="schedule-table-row-odd">
-<div class="schedule-table-timecol" style="vertical-align: 10px;">13:30</div>
-<div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
-<div style="display:inline-block; width:60px;">
-<img style="width:50px; height:50px; position: relative; bottom: 10px;" src="{{ site.baseurl }}/assets/images/speakers/peter_stone.png" alt="Peter Stone">
+<div class="schedule-table-row-even">
+<div class="schedule-table-timecol">12:30</div>
+<div class="schedule-table-eventcol">Lunch Break</div>
+<div class="schedule-table-contentcol"></div>
 </div>
-<div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Peter Stone</p>
-<p style="margin:0 0 0 10px; font-size:10px;">UT Austin; Sony AI</p>
-</div>
-</div>
-</div>
-<div class="schedule-table-contentcol"><a target="_blank" href="https://slideslive.com/38987742/reward-misdesign-for-autonomous-driving-and-accumulating-safety-rules-from-catastrophic-action-effects?ref=folder-105306"><i>Reward (Mis)design for Autonomous Driving and Accumulating Safety Rules from Catastrophic Action Effects</i></a></div>
+
+<div class="schedule-table-odd-even">
+<div class="schedule-table-timecol">13:30</div>
+<div class="schedule-table-eventcol">Invited Talk #4</div>
+<div class="schedule-table-contentcol">TBD</div>
 </div>
 
 <div class="schedule-table-row-even">
 <div class="schedule-table-timecol">14:00</div>
+<div class="schedule-table-eventcol">Invited Talk #5</div>
+<div class="schedule-table-contentcol">TBD</div>
+</div>
+
+<div class="schedule-table-odd-even">
+<div class="schedule-table-timecol">14:30</div>
 <div class="schedule-table-eventcol">Spotlight Talks</div>
-<!--div class="schedule-table-contentcol">Content</div-->
+<div class="schedule-table-contentcol">TBD</div>
 </div>
 
 <div class="schedule-table-row-even">
-<div class="schedule-table-timecol" style="vertical-align: 10px;">&nbsp;</div>
-<div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
-<div style="display:inline-block; width:60px;">
-&nbsp;
-</div>
-<div style="display:inline-block; width:150px; line-height:1.4; margin:0 0 0 40px">
-<p style="margin:0 0 0 10px;">Weiran Yao</p>
-<p style="margin:0 0 0 10px; font-size:10px;">CMU</p>
-</div>
-</div>
-</div>
-<div class="schedule-table-contentcol" style="margin:0 0 0 35px;"><a target="_blank" href="https://slideslive.com/38987757/distributionaware-goal-prediction-and-conformant-modelbased-planning-for-safe-autonomous-driving?ref=folder-105306"><i>#23: Distribution-aware Goal Prediction and Conformant Model-based Planning for Safe Autonomous Driving</i></a></div>
-</div>
-
-<div class="schedule-table-row-even">
-<div class="schedule-table-timecol" style="vertical-align: 10px;">&nbsp;</div>
-<div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
-<div style="display:inline-block; width:60px;">
-&nbsp;
-</div>
-<div style="display:inline-block; width:150px; line-height:1.4; margin:0 0 0 40px">
-<p style="margin:0 0 0 10px;">Zuxin Liu</p>
-<p style="margin:0 0 0 10px; font-size:10px;">CMU</p>
-</div>
-</div>
-</div>
-<div class="schedule-table-contentcol" style="margin:0 0 0 35px;"><a target="_blank" href="https://slideslive.com/38987751/on-the-robustness-of-safe-reinforcement-learning-under-observational-perturbations?ref=folder-105306"><i>#15: On the Robustness of Safe Reinforcement Learning under Observational Perturbations</i></a></div>
-</div>
-
-<div class="schedule-table-row-odd">
-<div class="schedule-table-timecol" style="vertical-align: 10px;">14:30</div>
-<div class="schedule-table-eventcol">
-<div style="display:inline-block; width:270px; margin:20px 0 0 0;">
-<div style="display:inline-block; width:60px;">
-<img style="width:50px; height:50px; position: relative; bottom: 10px;" src="{{ site.baseurl }}/assets/images/speakers/todd_hester.png" alt="Todd Hester">
-</div>
-<div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Todd Hester</p>
-<p style="margin:0 0 0 10px; font-size:10px;">Amazon Scout</p>
-</div>
-</div>
-</div>
-<div class="schedule-table-contentcol"><a target="_blank" href="https://slideslive.com/38987743/multimodal-sensor-fusion-for-the-amazon-scout-robot?ref=folder-105306"><i>Multi-modal sensor fusion for the Amazon Scout robot</i></a></div>
-</div>
-
-<div class="schedule-table-row-even">
-<div class="schedule-table-timecol" style="vertical-align: 10px;">15:00</div>
-<div class="schedule-table-eventcol">
-<div style="display:inline-block; width:270px; margin:20px 0 0 0;">
-<div style="display:inline-block; width:60px;">
-<img style="width:50px; height:50px; position: relative; bottom: 10px;" src="{{ site.baseurl }}/assets/images/speakers/chelsea_finn.png" alt="Chelsea Finn">
-</div>
-<div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Chelsea Finn</p>
-<p style="margin:0 0 0 10px; font-size:10px;">Stanford + Google Brain</p>
-</div>
-</div>
-</div>
-<div class="schedule-table-contentcol"><a target="_blank" href="https://slideslive.com/38987744/robots-that-learn-to-be-safe?ref=folder-105306"><i>Robots that Learn to Be Safe</i></a></div>
-</div>
-
-<div class="schedule-table-row-odd">
 <div class="schedule-table-timecol">15:30</div>
-<div class="schedule-table-eventcol">Social + Poster Session</div>
-<!--div class="schedule-table-contentcol">Paper IDs: 1, 2, 3, 4, 5, 6, 9, 10, 13, 17, 18, 21, 22</div-->
-<div class="schedule-table-contentcol"><b>Gathertown</b> and in-person displays</div>
+<div class="schedule-table-eventcol">Poster Session / Coffee Break</div>
+<div class="schedule-table-contentcol"></div>
+</div>
+
+<div class="schedule-table-odd-even">
+<div class="schedule-table-timecol">16:30</div>
+<div class="schedule-table-eventcol">Invited Talk #6</div>
+<div class="schedule-table-contentcol">TBD</div>
 </div>
 
 <div class="schedule-table-row-even">
-<div class="schedule-table-timecol" style="vertical-align: 10px;">16:30</div>
-<div class="schedule-table-eventcol">
-<div style="display:inline-block; width:270px; margin:20px 0 0 0;">
-<div style="display:inline-block; width:60px;">
-<img style="width:50px; height:50px; position: relative; bottom: 10px;" src="{{ site.baseurl }}/assets/images/speakers/andrea_bajcsy.png" alt="Andrea Bajcsy">
-</div>
-<div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Andrea Bajcsy</p>
-<p style="margin:0 0 0 10px; font-size:10px;">UC Berkeley / CMU</p>
-</div>
-</div>
-</div>
-<div class="schedule-table-contentcol"><a target="_blank" href="https://slideslive.com/38987745/practical-safety-assurances-for-dynamic-humanrobot-interactions?ref=folder-105306"><i>Practical Safety Assurances for Dynamic Human-Robot Interactions</i></a></div>
+<div class="schedule-table-timecol">17:00</div>
+<div class="schedule-table-eventcol">Panel Discussion</div>
+<div class="schedule-table-contentcol">TBD</div>
 </div>
 
-<div class="schedule-table-row-odd">
-<div class="schedule-table-timecol" style="vertical-align: 10px;">17:00</div>
-<div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
-<div style="display:inline-block; width:60px;">
-<img style="width:50px; height:50px; position: relative; bottom: 10px;" src="{{ site.baseurl }}/assets/images/speakers/jeff_schneider.png" alt="Jeff Schneider">
-</div>
-<div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Jeff Schneider</p>
-<p style="margin:0 0 0 10px; font-size:10px;">Carnegie Mellon University</p>
-</div>
-</div>
-</div>
-<div class="schedule-table-contentcol"><a target="_blank" href="https://slideslive.com/38987746/safety-and-reinforcement-learning-for-selfdriving-cars?ref=folder-105306"><i>Reinforcement Learning for self-driving cars</i></a></div>
-</div>
-
-<div class="schedule-table-row-even">
-<div class="schedule-table-timecol" style="vertical-align: 10px;">17:30</div>
-<div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
-<div style="display:inline-block; width:60px;">
-<img style="width:50px; height:50px; position: relative; bottom: 10px;" src="{{ site.baseurl }}/assets/images/speakers/sergey_levine.png" alt="Sergey Levine">
-</div>
-<div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Sergey Levine</p>
-<p style="margin:0 0 0 10px; font-size:10px;">UC Berkeley</p>
-</div>
-</div>
-</div>
-<div class="schedule-table-contentcol"><a target="_blank" href="https://slideslive.com/38987748/learning-plannable-representations-and-planning-with-learnable-skills?ref=folder-105306"><i>Learning Plannable Representations and Planning with Learnable Skills</i></a></div>
-</div>
-
-<div class="schedule-table-row-odd">
+<div class="schedule-table-odd-even">
 <div class="schedule-table-timecol">18:00</div>
 <div class="schedule-table-eventcol">Conclusion</div>
 <div class="schedule-table-contentcol">Closing Remarks</div>
 </div>
-
-</div>
-
-<!--Poster Presentation Gathertown link: https://app.gather.town/app/wLuHBtWDuNBoHgun/SL4AD%2022  -->
-
-## Speakers
-
-<div style="display:block; padding:10px 0 0 0; width:900px;">
-
-<a href="https://www.ias.informatik.tu-darmstadt.de/Team/GeorgiaChalvatzaki" target="_blank" class="speaker_profile">
-<div style="display:inline-block; width:270px; margin:20px 0 0 0;">
-<div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/speakers/Georgia_Chalvatzaki.jpeg" alt="Georgia Chalvatzaki">
-</div>
-<div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Georgia Chalvatzaki</p>
-<p style="margin:0 0 0 10px; font-size:10px;">Full Professor<br>TU Darmstadt</p>
-</div>
-</div>
-</a>
-
-<a href="https://yonatanbisk.com/" target="_blank" class="speaker_profile">
-<div style="display:inline-block; width:270px; margin:20px 0 0 0;">
-<div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/speakers/Yonatan_Bisk.jpeg" alt="Yonatan Bisk">
-</div>
-<div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Yonatan Bisk</p>
-<p style="margin:0 0 0 10px; font-size:10px;">Assistant Professor<br>Carnegie Mellon University</p>
-</div>
-</div>
-</a>
-
-<a href="https://dorsa.fyi" target="_blank" class="speaker_profile">
-<div style="display:inline-block; width:270px; margin:20px 0 0 0;">
-<div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/speakers/dorsa_sadigh.jpeg" alt="Dorsa Sadigh">
-</div>
-<div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Dorsa Sadigh</p>
-<p style="margin:0 0 0 10px; font-size:10px;">Assistant Professor<br>Stanford University</p>
-</div>
-</div>
-</a>
-
-<a href="https://jimfan.me/" target="_blank" class="speaker_profile">
-<div style="display:inline-block; width:270px; margin:20px 0 0 0;">
-<div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/speakers/Jim_Fan.jpeg" alt="Linxi 'Jim' Fan">
-</div>
-<div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Linxi 'Jim' Fan</p>
-<p style="margin:0 0 0 10px; font-size:10px;">Research Scientist<br>NVIDIA AI</p>
-</div>
-</div>
-</a>
-
-</div>
-
-## Organizers
-
-<div style="display:block; padding:10px 0 0 0; width:900px;">
-
-<a href="https://scholar.google.com/citations?user=6tiiQtgAAAAJ" target="_blank" class="organiser_profile">
-<div style="display:inline-block; width:270px;">
-<div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/andrew_melnik.jpeg" alt="Andrew Melnik">
-</div>
-<div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Andrew Melnik</p>
-<p style="margin:0 0 0 10px; font-size:10px;">Postdoc<br>Bielefeld University</p>
-</div>
-</div>
-</a>
-
-<a href="https://krishanrana.github.io/" target="_blank" class="organiser_profile">
-<div style="display:inline-block; width:270px;">
-<div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/krishan_rana.jpeg" alt="Krishan Rana">
-</div>
-<div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Krishan Rana</p>
-<p style="margin:0 0 0 10px; font-size:10px;">Postdoc<br>QUT</p>
-</div>
-</div>
-</a>
-
-<a href="https://www.linkedin.com/in/jonmfrancis/" target="_blank" class="organiser_profile">
-<div style="display:inline-block; width:270px;">
-<div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/jonathan_francis.jpeg" alt="Jonathan Francis">
-</div>
-<div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Jonathan Francis</p>
-<p style="margin:0 0 0 10px; font-size:10px;">Senior Research Scientist<br>Bosch Research</p>
-</div>
-</div>
-</a>
-
-<a href="https://ishikasingh.github.io/" target="_blank" class="organiser_profile">
-<div style="display:inline-block; width:270px;">
-<div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/ishika_singh.jpeg" alt="Ishika Singh">
-</div>
-<div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Ishika Singh</p>
-<p style="margin:0 0 0 10px; font-size:10px;">PhD Student<br>USC</p>
-</div>
-</div>
-</a>
-
-<a href="https://guanzhi.me/" target="_blank" class="organiser_profile">
-<div style="display:inline-block; width:270px;">
-<div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/guanzhi_wang.jpeg" alt="Guanzhi Wang">
-</div>
-<div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Guanzhi Wang</p>
-<p style="margin:0 0 0 10px; font-size:10px;">PhD Student<br>Caltech</p>
-</div>
-</div>
-</a>
-
-<a href="https://www.linkedin.com/in/norman-di-palo/?originalSubdomain=uk" target="_blank" class="organiser_profile">
-<div style="display:inline-block; width:270px;">
-<div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/norman_di_palo.jpeg" alt="Norman Di Palo">
-</div>
-<div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Norman Di Palo</p>
-<p style="margin:0 0 0 10px; font-size:10px;">PhD Student<br>Imperial College London</p>
-</div>
-</div>
-</a>
-
-<a href="https://vidhijain.github.io/" target="_blank" class="organiser_profile">
-<div style="display:inline-block; width:270px;">
-<div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/vidhi_jain.jpeg" alt="Vidhi Jain">
-</div>
-<div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Vidhi Jain</p>
-<p style="margin:0 0 0 10px; font-size:10px;">PhD Student<br>CMU</p>
-</div>
-</div>
-</a>
-
-<a href="https://www.linkedin.com/in/quanting-xie-4197a814a/" target="_blank" class="organiser_profile">
-<div style="display:inline-block; width:270px;">
-<div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/quanting_xie.jpeg" alt="Quanting Xie">
-</div>
-<div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Quanting "Daniel" Xie</p>
-<p style="margin:0 0 0 10px; font-size:10px;">MS Student<br>CMU</p>
-</div>
-</div>
-</a>
-
-<a href="https://yaqi-xie.me/" target="_blank" class="organiser_profile">
-<div style="display:inline-block; width:270px;">
-<div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/yaqi_xie.png" alt="Yaqi Xie">
-</div>
-<div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Yaqi Xie</p>
-<p style="margin:0 0 0 10px; font-size:10px;">Postdoc<br>CMU</p>
-</div>
-</div>
-</a>
-
-<a href="https://jeffreyyh.github.io/" target="_blank" class="organiser_profile">
-<div style="display:inline-block; width:270px;">
-<div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/yafei_hu.png" alt="Yafei Hu">
-</div>
-<div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Yafei "Jeffrey" Hu</p>
-<p style="margin:0 0 0 10px; font-size:10px;">PhD Student<br>CMU</p>
-</div>
-</div>
-</a>
-
-<a href="https://nikosuenderhauf.github.io/" target="_blank" class="organiser_profile">
-<div style="display:inline-block; width:270px;">
-<div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/niko_sünderhauf.png" alt="Niko Sünderhauf">
-</div>
-<div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Niko Sünderhauf</p>
-<p style="margin:0 0 0 10px; font-size:10px;">Professor<br>QUT</p>
-</div>
-</div>
-</a>
-
-<a href="https://nikosuenderhauf.github.io/" target="_blank" class="organiser_profile">
-<div style="display:inline-block; width:270px;">
-<div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/danica_kragic.png" alt="Danica Kragic">
-</div>
-<div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Danica Kragic</p>
-<p style="margin:0 0 0 10px; font-size:10px;">Professor<br>KTH</p>
-</div>
-</div>
-</a>
 
 </div>
 
