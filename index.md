@@ -644,7 +644,7 @@ Friday, 6 November 2023. All times are in Eastern Daylight Time (EDT). Current t
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Ishika Singh</p>
-<p style="margin:0 0 0 10px; font-size:10px;">PhD Student at USC/p>
+<p style="margin:0 0 0 10px; font-size:10px;">PhD Student at USC</p>
 </div>
 </div>
 </a>
@@ -674,7 +674,7 @@ Friday, 6 November 2023. All times are in Eastern Daylight Time (EDT). Current t
 </div>
 </a>
 
-<!-- <a href="https://vidhijain.github.io/" target="_blank" class="organiser_profile">
+<a href="https://vidhijain.github.io/" target="_blank" class="organiser_profile">
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
 <img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/vidhi_jain.png" alt="Vidhi Jain">
@@ -745,7 +745,7 @@ Friday, 6 November 2023. All times are in Eastern Daylight Time (EDT). Current t
 </div>
 </div>
 </a>
- -->
+
 </div>
 
 
