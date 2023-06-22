@@ -597,9 +597,33 @@ Friday, 6 November 2023. All times are in Eastern Daylight Time (EDT). Current t
 
 </div>
 
-## Organisers
+## Organizers
 
 <div style="display:inline; width:900px; vertical-align: top;">
+
+<a href="https://scholar.google.com/citations?user=6tiiQtgAAAAJ" target="_blank" class="organiser_profile">
+<div style="display:inline-block; width:270px;">
+<div style="display:inline-block; width:101px;">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/andrew_melnik.jpeg" alt="Andrew Melnik">
+</div>
+<div style="display:inline-block; width:150px; line-height:1.4;">
+<p style="margin:0 0 0 10px;">Andrew Melnik</p>
+<p style="margin:0 0 0 10px; font-size:10px;">Postdoc at Bielefeld University</p>
+</div>
+</div>
+</a>
+
+<a href="https://krishanrana.github.io/" target="_blank" class="organiser_profile">
+<div style="display:inline-block; width:270px;">
+<div style="display:inline-block; width:101px;">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/krishan_rana.jpeg" alt="Krishan Rana">
+</div>
+<div style="display:inline-block; width:150px; line-height:1.4;">
+<p style="margin:0 0 0 10px;">Krishan Rana</p>
+<p style="margin:0 0 0 10px; font-size:10px;">Postdoc at QUT</p>
+</div>
+</div>
+</a>
 
 <a href="https://www.linkedin.com/in/jonmfrancis/" target="_blank" class="organiser_profile">
 <div style="display:inline-block; width:270px;">
@@ -608,135 +632,116 @@ Friday, 6 November 2023. All times are in Eastern Daylight Time (EDT). Current t
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Jonathan Francis</p>
-<!--p style="margin:0 0 0 10px;">CMU + Bosch</p-->
-<p style="margin:0 0 0 10px; font-size:10px;">Research Scientist at Bosch Research, focusing domain knowledge-enhanced representation learning, applied to robotics and autonomous driving</p>
+<p style="margin:0 0 0 10px; font-size:10px;">Research Scientist at Bosch Research</p>
 </div>
 </div>
 </a>
 
-<a href="https://www.linkedin.com/in/hitesharora11" target="_blank" class="organiser_profile">
+<a href="https://ishikasingh.github.io/" target="_blank" class="organiser_profile">
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/hitesh_arora.png" alt="Hitesh Arora">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/ishika_singh.jpeg" alt="Ishika Singh">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Hitesh Arora</p>
-<!--p style="margin:0 0 0 10px;">CMU</p-->
-<p style="margin:0 0 0 10px; font-size:10px;">Researcher at Amazon, focusing on multimodal perception and reinforcement learning, applied to autonomous driving</p>
+<p style="margin:0 0 0 10px;">Ishika Singh</p>
+<p style="margin:0 0 0 10px; font-size:10px;">PhD Student at USC/p>
 </div>
 </div>
 </a>
 
-<a href="https://www.linkedin.com/in/bingqing-chen-631b754a/" target="_blank" class="organiser_profile">
+<a href="https://guanzhi.me/" target="_blank" class="organiser_profile">
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/bingqing_chen.png" alt="Bingqing Chen">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/guanzhi_wang.png" alt="Guanzhi Wang">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Bingqing Chen</p>
-<!--p style="margin:0 0 0 10px;">CMU</p-->
-<p style="margin:0 0 0 10px; font-size:10px;">Machine Learning Research Scientist at Bosch Research, focusing on constraint-based optimisation, physical mechanisms, and safe learning, applied to autonomous driving</p>
+<p style="margin:0 0 0 10px;">Guanzhi Wang
+</p>
+<p style="margin:0 0 0 10px; font-size:10px;">PhD Student at Caltech</p>
 </div>
 </div>
 </a>
 
-<a href="https://xinshuoweng.com/" target="_blank" class="organiser_profile">
+<a href="https://www.linkedin.com/in/norman-di-palo/?originalSubdomain=uk" target="_blank" class="organiser_profile">
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/xinshuo_weng.png" alt="Xinshuo Weng">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/norman_di_palo.jpeg" alt="Norman Di Palo">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Xinshuo Weng</p>
-<!--p style="margin:0 0 0 10px;">CMU</p-->
-<p style="margin:0 0 0 10px; font-size:10px;">Research Scientist at NVIDIA Research; focusing on 3D computer vision and generative models for autonomous systems</p>
+<p style="margin:0 0 0 10px;">Norman Di Palo</p>
+<p style="margin:0 0 0 10px; font-size:10px;">PhD Student at Imperial College London</p>
 </div>
 </div>
 </a>
 
-<a href="https://www.linkedin.com/in/sidgan/" target="_blank" class="organiser_profile">
+<a href="https://vidhijain.github.io/" target="_blank" class="organiser_profile">
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/siddha_ganju.png" alt="Siddha Ganju">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/vidhi_jain.png" alt="Vidhi Jain">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Siddha Ganju</p>
-<!--p style="margin:0 0 0 10px;">NVIDIA</p-->
-<p style="margin:0 0 0 10px; font-size:10px;">Researcher and Data Scientist at NVIDIA, focusing on computer vision optimization for vehicle autonomy and medical instruments</p>
+<p style="margin:0 0 0 10px;">Vidhi Jain</p>
+<p style="margin:0 0 0 10px; font-size:10px;">PhD Student at CMU</p>
 </div>
 </div>
 </a>
 
-<a href="https://www.linkedin.com/in/bhat-manoj/" target="_blank" class="organiser_profile">
+<a href="https://www.linkedin.com/in/quanting-xie-4197a814a/" target="_blank" class="organiser_profile">
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/manoj_bhat.png" alt="Manoj Bhat">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/quanting_xie.jpeg" alt="Quanting Xie">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Manoj Bhat</p>
-<!--p style="margin:0 0 0 10px;">CMU</p-->
-<p style="margin:0 0 0 10px; font-size:10px;">Machine Learning Researcher at Amazon, focusing on Neural Radiance fields, reinforcement learning, and representation learning applied to autonomous driving</p>
+<p style="margin:0 0 0 10px;">Quanting "Daniel" Xie</p>
+<p style="margin:0 0 0 10px; font-size:10px;">MS Student at CMU</p>
 </div>
 </div>
 </a>
 
-<a href="https://danielomeiza.github.io/" target="_blank" class="organiser_profile">
+<a href="https://yaqi-xie.me/" target="_blank" class="organiser_profile">
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/daniel_omeiza.png" alt="Daniel Omeiza">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/yaqi_xie.png" alt="Yaqi Xie">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Daniel Omeiza</p>
-<!--p style="margin:0 0 0 10px;">CMU</p-->
-<p style="margin:0 0 0 10px; font-size:10px;">PhD student at Oxford, focusing on explainable AI and decision-making, in autonomous driving</p>
+<p style="margin:0 0 0 10px;">Yaqi Xie</p>
+<p style="margin:0 0 0 10px; font-size:10px;">Postdoc at CMU</p>
 </div>
 </div>
 </a>
 
-<a href="https://www.cs.cmu.edu/~./jeanoh/" target="_blank" class="organiser_profile">
+<a href="https://jeffreyyh.github.io/" target="_blank" class="organiser_profile">
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/jean_oh.png" alt="Jean Oh">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/yafei_hu.png" alt="Yafei Hu">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Jean Oh</p>
-<!--p style="margin:0 0 0 10px;">CMU</p-->
-<p style="margin:0 0 0 10px; font-size:10px;">Research Professor in Robotics Institute at CMU and Director of Bot Intelligence Group; multimodal perception, navigation, and artificial intelligence</p>
+<p style="margin:0 0 0 10px;">Yafei "Jeffrey" Hu</p>
+<p style="margin:0 0 0 10px; font-size:10px;">PhD Student at CMU</p>
 </div>
 </div>
 </a>
 
-<a href="https://www.cs.cmu.edu/~ehn/" target="_blank" class="organiser_profile">
+<a href="https://nikosuenderhauf.github.io/" target="_blank" class="organiser_profile">
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/eric_nyberg.png" alt="Eric Nyberg">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/niko_sünderhauf.png" alt="Niko Sünderhauf">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Eric Nyberg</p>
-<p style="margin:0 0 0 10px; font-size:10px;">Professor of Computer Science at CMU and Program Director, Masters of Computational Data Science; hybrid reasoning systems and artificial intelligence</p>
+<p style="margin:0 0 0 10px;">Niko Sünderhauf</p>
+<p style="margin:0 0 0 10px; font-size:10px;">Professor at QUT</p>
 </div>
 </div>
 </a>
 
-<a href="https://sylviaherbert.com" target="_blank" class="organiser_profile">
+<a href="https://nikosuenderhauf.github.io/" target="_blank" class="organiser_profile">
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/sylvia_herbert.png" alt="Sylvia Herbert">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/danica_kragic.png" alt="Danica Kragic">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Sylvia Herbert</p>
-<p style="margin:0 0 0 10px; font-size:10px;">Assistant Professor at UCSD and Director of Safe Autonomous Systems Lab; uncertainty modeling in control, safety-aware learning, autonomy</p>
-</div>
-</div>
-</a>
-
-<a href="http://www.cs.columbia.edu/~lierranli/" target="_blank" class="organiser_profile">
-<div style="display:inline-block; width:270px;">
-<div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/li_erran_li.png" alt="Li Erran Li">
-</div>
-<div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Li Erran Li</p>
-<p style="margin:0 0 0 10px; font-size:10px;">Head of Science/HIL at Amazon AWS AI and Adjunct Professor at Columbia; Computer Vision, Machine Learning Systems, and Algorithms</p>
+<p style="margin:0 0 0 10px;">Danica Kragic</p>
+<p style="margin:0 0 0 10px; font-size:10px;">Professor at KTH</p>
 </div>
 </div>
 </a>
