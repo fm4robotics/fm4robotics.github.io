@@ -1,7 +1,7 @@
 ---
 layout: article
-title: Safe Learning for Autonomous Driving
-excerpt: ICML 2022 Workshop + Challenge
+title: Foundation Models for Robotics (FM4R)
+excerpt: CoRL 2023 Workshop
 menu: true
 show_info: true
 titles:
@@ -16,9 +16,9 @@ article_header:
   theme: dark
   align: left
   actions:
-    - text: 22 July 2022 | Baltimore, Maryland, USA (Hybrid)
+    - text: 6 Novenmber 2023 | Atlanta, Georgia, USA
   background_image:
-    src: /assets/images/l2r_banner3.png
+    src: /assets/images/atlanta_image.jpeg
 #    gradient: 'linear-gradient(135deg, rgba(52, 140, 96, 0.4), rgba(136, 73, 107, 0.4))'
 ---
 
@@ -200,19 +200,20 @@ img {
 
 ## About
 
-Welcome to the 1st Workshop on <i>Safe Learning for Autonomous Driving</i> (SL4AD), co-located with the International Conference on Machine Learning (ICML 2022), to be held on 22 July 2022 in hybrid format.
+Welcome to the 1st Workshop on <i>Foundation Models for Robotics</i> (FM4R), co-located with the 7th International Conference on Robot Learning (CoRL 2023), to be held on November 6th, 2023 in hybrid? format.
 
-While there have been significant advances in vehicle autonomy (e.g., perception, trajectory forecasting, planning and control, etc.), it is of paramount importance for autonomous systems to adhere to safety specifications, as any safety infraction in urban and highway driving, or high-speed racing could lead to catastrophic failures. Given this inherent tension between safety and performance, we introduce a new simulation environment in autonomous racing as a particularly challenging proving ground for safe learning algorithms.<br>
+Foundation models represent a new paradigm shift in artificial intelligence, defined by the training of large-scale models on internet-scale datasets. These models encapsulate a broad spectrum of general knowledge, and can be adapted or fine-tuned for specific downstream tasks or applications. Examples of such models include CLIP, SAM, VILD, GPT, BLIP, LLaMa, DINO, VPT, I-JEPA, PALM-E, and others. The era of foundation models is marked by significant advancements in a multitude of domains such as language processing, image generation, visual perception, and multisensory integration.<br>
 
-We envision this workshop bringing together researchers and industry practitioners from different AI subfields to work towards safer and more robust autonomous technology. We encourage participants to take part in the Challenge by competing for top leaderboard positions, to submit articles for review, and to engage with us at ICML 2022.<br>
+The aim of this workshop is to spark the integration of foundation models into the field of robotics. We hypothesize, based on recent findings, that integrating these models could revolutionize the way we address robotics challenges, offering multifaceted, modular, and generalizable solutions that can unlock opportunities for innovation that were previously unreachable. In this workshop, we will embark on an exploration of the untapped potential of foundation models in robotics. We will scrutinize how the extensive knowledge contained in foundation models can be leveraged to effectively tackle diverse robotics tasks. Moreover, we strive to garner a collaborative workshop that will drive the evolution of modular robotics solutions that can be easily recreated for cumulative research.<br>
+
 
 ### Topics covered
 
 <div>
 <div style="width:49%; display:inline-block; font-size:14px; vertical-align:top">
 <ul>
-<li>Safe reinforcement learning, safe exploration, constrained reinforcement learning, safe learning + control theory</li>
-<li>Safety verification, certifying learning-based control under dynamical uncertainty, dependability analysis</li>
+<li>Adapting foundation models for robotics</li>
+<!-- <li>Safety verification, certifying learning-based control under dynamical uncertainty, dependability analysis</li>
 <li>Robustness to out-of-distribution road scenes</li>
 <li>Learning vehicle dynamics at high-speeds and in unstable regimes</li>
 <li>Vision-based perception and scene understanding for autonomous driving</li>
@@ -223,13 +224,13 @@ We envision this workshop bringing together researchers and industry practitione
 <li>Trajectory forecasting; Behavior prediction of pedestrians, vehicles, and animals</li>
 <li>Explainability in autonomous driving</li>
 <li>Learning to drive via imitation learning</li>
-<li>Learning to drive via distribution awareness</li>
+<li>Learning to drive via distribution awareness</li> -->
 </ul>
 </div>
 <div style="width:49%; display:inline-block; font-size:14px; vertical-align:top">
 <ul>
-<li>Uncertainty propagation through autonomous driving pipelines</li>
-<li>Classical planning and control for autonomous driving</li>
+<li>Pretraining and representation learning for robotics</li>
+<!-- <li>Classical planning and control for autonomous driving</li>
 <li>Cooperative and competitive multi-agent systems</li>
 <li>Visual grounding and its application to autonomous driving</li>
 <li>Vision-language navigation for autonomous driving</li>
@@ -241,7 +242,7 @@ We envision this workshop bringing together researchers and industry practitione
 <li>AI ethics in autonomous driving</li>
 <li>Autonomous driving datasets, simulation, evaluations, and metrics</li>
 <li>Connected autonomous driving, vehicle-to-vehicle, vehicle-to-infrastructure communication, digital twins</li>
-<li>Autonomous driving for traffic management and emission reduction; intelligent transportation systems</li>
+<li>Autonomous driving for traffic management and emission reduction; intelligent transportation systems</li> -->
 </ul>
 </div>
 </div>
@@ -253,20 +254,21 @@ Note: all deadlines are in <b>Anywhere on Earth</b>.
 ### Paper Submission
 
 <div>
-<b>Submissions open:</b> 23 March 2022<br>
-<b>Submissions due:</b> <p style="display:inline; text-decoration:line-through;">20 May 2022</p><p style="display:inline; color:red;">&nbsp;27 May 2022</p><br>
-<b>Notification:</b> 6 June 2022<br>
-<b>Camera Ready</b>: 17 June 2022<br>
-<b>Oral/Poster video upload</b>: 1 July 2022
+<b>Submissions open:</b> 1 October 2023<br>
+<!-- <b>Submissions due:</b> <p style="display:inline; text-decoration:line-through;">20 May 2022</p><p style="display:inline; color:red;">&nbsp;27 May 2022</p><br> -->
+<b>Submissions due:</b> 15 October 2023<br>
+<b>Notification:</b> 20 October 2023<br>
+<b>Camera Ready</b>: 25 October 2023<br>
+<b>Oral/Poster video upload</b>:  30 October 2023
 </div>
 
 ### Workshop Event
 
-<b>Date:</b> 22 July 2022
+<b>Date:</b> 6 November 2023
 
 ## Schedule
 
-Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current time is <span id="edt"></span>.
+Friday, 6 November 2023. All times are in Eastern Daylight Time (EDT). Current time is <span id="edt"></span>.
 
 <div style="display:block; width:900px; padding:20px; border:solid 4px #CCCCCC;">
 <div class="schedule-table-heading" style="margin-left:57px; display:inline-block; inline-size:100px;">Time</div>
@@ -545,136 +547,55 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 
 <div style="display:block; padding:10px 0 0 0; width:900px;">
 
-<a href="https://davheld.github.io/" target="_blank" class="speaker_profile">
+<a href="https://www.ias.informatik.tu-darmstadt.de/Team/GeorgiaChalvatzaki" target="_blank" class="speaker_profile">
 <div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/speakers/david_held.png" alt="David Held">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/speakers/Georgia_Chalvatzaki.jpeg" alt="Georgia Chalvatzaki">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">David Held</p>
+<p style="margin:0 0 0 10px;">Georgia Chalvatzaki</p>
+<p style="margin:0 0 0 10px; font-size:10px;">Full Professor<br>TU Darmstadt</p>
+</div>
+</div>
+</a>
+
+<a href="https://yonatanbisk.com/" target="_blank" class="speaker_profile">
+<div style="display:inline-block; width:270px; margin:20px 0 0 0;">
+<div style="display:inline-block; width:101px;">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/speakers/Yonatan_Bisk.jpeg" alt="Yonatan Bisk">
+</div>
+<div style="display:inline-block; width:150px; line-height:1.4;">
+<p style="margin:0 0 0 10px;">Yonatan Bisk</p>
 <p style="margin:0 0 0 10px; font-size:10px;">Assistant Professor<br>Carnegie Mellon University</p>
 </div>
 </div>
 </a>
 
-<a href="https://idsc.ethz.ch/research-zeilinger/people/person-detail.MTQyNzM3.TGlzdC8xOTI5LDg4NTM5MTE3.html" target="_blank" class="speaker_profile">
+<a href="https://dorsa.fyi" target="_blank" class="speaker_profile">
 <div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/speakers/melanie_zeilinger.png" alt="Melanie Zeilinger">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/speakers/dorsa_sadigh.jpeg" alt="Dorsa Sadigh">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Melanie Zeilinger</p>
-<p style="margin:0 0 0 10px; font-size:10px;">Assistant Professor<br>ETH Zürich</p>
+<p style="margin:0 0 0 10px;">Dorsa Sadigh</p>
+<p style="margin:0 0 0 10px; font-size:10px;">Assistant Professor<br>Stanford University</p>
 </div>
 </div>
 </a>
 
-<a href="https://www.cs.utexas.edu/~pstone/" target="_blank" class="speaker_profile">
+<a href="https://jimfan.me/" target="_blank" class="speaker_profile">
 <div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/speakers/peter_stone.png" alt="Peter Stone">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/speakers/Jim_Fan.jpeg" alt="Linxi 'Jim' Fan">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Peter Stone</p>
-<p style="margin:0 0 0 10px; font-size:10px;">Professor; Exec. Director, Sony AI America; Assoc. Chair, CS<br>UT Austin</p>
-</div>
-</div>
-</a>
-
-<a href="https://www.cs.utexas.edu/~todd/" target="_blank" class="speaker_profile">
-<div style="display:inline-block; width:270px; margin:20px 0 0 0;">
-<div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/speakers/todd_hester.png" alt="Todd Hester">
-</div>
-<div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Todd Hester</p>
-<p style="margin:0 0 0 10px; font-size:10px;">Applied Scientist Lead<br>Amazon Scout</p>
-</div>
-</div>
-</a>
-
-<a href="https://ai.stanford.edu/~cbfinn/" target="_blank" class="speaker_profile">
-<div style="display:inline-block; width:270px; margin:20px 0 0 0;">
-<div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/speakers/chelsea_finn.png" alt="Chelsea Finn">
-</div>
-<div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Chelsea Finn</p>
-<p style="margin:0 0 0 10px; font-size:10px;">Assistant Professor, Stanford; Google Brain</p>
-</div>
-</div>
-</a>
-
-<a href="https://people.eecs.berkeley.edu/~abajcsy/" target="_blank" class="speaker_profile">
-<div style="display:inline-block; width:270px; margin:20px 0 0 0;">
-<div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/speakers/andrea_bajcsy.png" alt="Andrea Bajcsy">
-</div>
-<div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Andrea Bajcsy</p>
-<p style="margin:0 0 0 10px; font-size:10px;">PhD Candidate, UC Berkeley; incoming Assistant Professor, CMU</p>
-</div>
-</div>
-</a>
-
-<a href="https://www.linkedin.com/in/jeff-schneider-1593b322/" target="_blank" class="speaker_profile">
-<div style="display:inline-block; width:270px; margin:20px 0 0 0;">
-<div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/speakers/jeff_schneider.png" alt="Jeff Schneider">
-</div>
-<div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Jeff Schneider</p>
-<p style="margin:0 0 0 10px; font-size:10px;">Professor<br>Carnegie Mellon University</p>
-</div>
-</div>
-</a>
-
-<a href="https://people.eecs.berkeley.edu/~svlevine/" target="_blank" class="speaker_profile">
-<div style="display:inline-block; width:270px; margin:20px 0 0 0;">
-<div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/speakers/sergey_levine.png" alt="Sergey Levine">
-</div>
-<div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Sergey Levine</p>
-<p style="margin:0 0 0 10px; font-size:10px;">Associate Professor<br>UC Berkeley</p>
+<p style="margin:0 0 0 10px;">Linxi 'Jim' Fan</p>
+<p style="margin:0 0 0 10px; font-size:10px;">Research Scientist<br>NVIDIA AI</p>
 </div>
 </div>
 </a>
 
 </div>
-
-## Challenge
-
-We also feature an exciting and new AI Challenge in high-speed autonomous racing. Here, the goal is to evaluate the joint safety, performance, and generalisation capabilities of perception and control algorithms, as they operate simulated Formula-style racing vehicles at their physical limits! The Learn-to-Race Autonomous Racing Virtual Challenge is now active. <a href="https://www.aicrowd.com/challenges/learn-to-race-autonomous-racing-virtual-challenge" target="_blank">Participate now</a>!
-
-<!--div class="swiper swiper-demo">
-  <div class="swiper__wrapper">
-    <div class="swiper__slide">
-      <img src="{{ site.baseurl }}/assets/images/challenge/lvms-overhead.png" alt="LVMS">
-    </div>
-    <div class="swiper__slide">
-      <img src="{{ site.baseurl }}/assets/images/challenge/anglesey-overhead.png" alt="LVMS">
-    </div>
-    <div class="swiper__slide">
-      <img src="{{ site.baseurl }}/assets/images/challenge/thruxton-overhead.png" alt="LVMS">
-    </div>
-  </div>
-  <div class="swiper__button swiper__button--prev fas fa-chevron-left"></div>
-  <div class="swiper__button swiper__button--next fas fa-chevron-right"></div>
-</div-->
-
-<div style="display:block; width:100%;">
-<div style="display:block; margin-bottom:7px;">
-<div style="display:inline; margin-right:5px;"><a href="https://www.aicrowd.com/challenges/learn-to-race-autonomous-racing-virtual-challenge" target="_blank"><img width="410px" height="226px" src="{{ site.baseurl }}/assets/images/challenge/banner-l2rc-text.png" alt="L2R Autonomous Racing Virtual Challenge: Safe Learning for Autonomous Driving"></a></div>
-<div style="display:inline;"><a href="https://www.aicrowd.com/challenges/learn-to-race-autonomous-racing-virtual-challenge" target="_blank"><img width="410px" height="226px" src="{{ site.baseurl }}/assets/images/challenge/banner-lvms.png" alt="L2R Autonomous Racing Virtual Challenge: Safe Learning for Autonomous Driving"></a></div>
-</div>
-<div style="display:block;">
-<div style="display:inline; margin-right:5px;"><a href="https://www.aicrowd.com/challenges/learn-to-race-autonomous-racing-virtual-challenge" target="_blank"><img width="410px" height="226px" src="{{ site.baseurl }}/assets/images/challenge/banner-driving.gif" alt="L2R Autonomous Racing Virtual Challenge: Safe Learning for Autonomous Driving"></a></div>
-<div style="display:inline;"><a href="https://www.aicrowd.com/challenges/learn-to-race-autonomous-racing-virtual-challenge" target="_blank"><img width="410px" height="226px" src="{{ site.baseurl }}/assets/images/challenge/banner-car.png" alt="L2R Autonomous Racing Virtual Challenge: Safe Learning for Autonomous Driving"></a></div>
-</div>
-</div>
-
-<a href="https://www.aicrowd.com/challenges/learn-to-race-autonomous-racing-virtual-challenge" target="_blank"><img src="{{ site.baseurl }}/assets/images/challenge/aicrowd_challenge_steps.gif" alt="Steps to victory!"></a>
 
 ## Organisers
 
