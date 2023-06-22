@@ -87,7 +87,7 @@ article_header:
 }
 
 ul.menu li::after {
-    content:"22 July 2022 | Baltimore, Maryland, USA (Hybrid)";
+    content:"6 Novenmber 2023 | Atlanta, Georgia, USA";
 }
 
 ul.menu a {
