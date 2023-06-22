@@ -674,7 +674,7 @@ Friday, 6 November 2023. All times are in Eastern Daylight Time (EDT). Current t
 </div>
 </a>
 
-<a href="https://vidhijain.github.io/" target="_blank" class="organiser_profile">
+<!-- <a href="https://vidhijain.github.io/" target="_blank" class="organiser_profile">
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
 <img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/vidhi_jain.png" alt="Vidhi Jain">
@@ -745,13 +745,14 @@ Friday, 6 November 2023. All times are in Eastern Daylight Time (EDT). Current t
 </div>
 </div>
 </a>
-
+ -->
 </div>
 
-## Program Committee
+
+<!-- ## Program Committee -->
 
 <!-- column 1 -->
-<div class="pc-column">
+<!-- <div class="pc-column">
 <ul>
 <li>Arav Agarwal (<b>ER</b>, <b>TR</b>)</li>
 <li>Eren Aksoy</li>
@@ -764,10 +765,10 @@ Friday, 6 November 2023. All times are in Eastern Daylight Time (EDT). Current t
 <li>Sahika Genc (<b>ER</b>)</li>
 <li>S. Alireza Golestaneh (<b>TR</b>)</li>
 </ul>
-</div>
+</div> -->
 
 <!-- column 2 -->
-<div class="pc-column" style="margin:0 30px 0 0;">
+<!-- <div class="pc-column" style="margin:0 30px 0 0;">
 <ul>
 <li>David Held (<b>SMR</b>)</li>
 <li>Todd Hester (<b>SMR</b>)</li>
@@ -780,10 +781,10 @@ Friday, 6 November 2023. All times are in Eastern Daylight Time (EDT). Current t
 <li>Praveen Palanisamy</li>
 <li>João Pinho (<b>ER</b>)</li>
 </ul>
-</div>
+</div> -->
 
 <!-- column 3 -->
-<div class="pc-column">
+<!-- <div class="pc-column">
 <ul>
 <li>Daniele Reda</li>
 <li>Nazmus Sakib</li>
@@ -794,18 +795,17 @@ Friday, 6 November 2023. All times are in Eastern Daylight Time (EDT). Current t
 <li>Yujie Wei</li>
 <li>Weiran Yao</li>
 </ul>
-</div>
+</div> -->
 
 ---
 
-<b>ER</b> — <i>Recognises PC member who served ("+" additionally) as an Emergency Reviewer.</i><br>
-<b>TR</b> — <i>Recognises PC member who, according to Chair ratings, ranked in the Top 15% of Reviewers.</i><br>
-<b>SMR</b> — <i>Recognises PC member who agreed to provide their services as a Senior Meta-Reviewer.</i>
+<!-- <b>ER</b> — <i>Recognises PC member who served ("+" additionally) as an Emergency Reviewer.</i><br> -->
+<!-- <b>TR</b> — <i>Recognises PC member who, according to Chair ratings, ranked in the Top 15% of Reviewers.</i><br> -->
+<!-- <b>SMR</b> — <i>Recognises PC member who agreed to provide their services as a Senior Meta-Reviewer.</i> -->
 
-## Sponsors
+<!-- ## Sponsors -->
 
-<img src="{{ site.baseurl }}/assets/images/sponsors/sponsor_banner.png">
-
+<!-- <img src="{{ site.baseurl }}/assets/images/sponsors/sponsor_banner.png"> -->
 <!--
 <div class="col-lg-12 col-xl-6">
             <div class="logos-organizers">
